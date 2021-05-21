@@ -470,12 +470,12 @@ function keno4() {
   text("Keno", width * 0.4, height * 0.2);
   textSize(20);
   text(
-    "Keno write down your taste on the note ",
+    "Keno swallow  you and write down  ",
     width * 0.2,
     height * 0.3
   );
   text(
-    "and go to sleep",
+    "the taste on the book and go to sleep",
     width * 0.2,
     height * 0.4
   );
