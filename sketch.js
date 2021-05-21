@@ -132,7 +132,7 @@ function title() {
   fill(144, 238, 144);
   text("Choose Keno", width * 0.7, height * 0.65);
   cg = createImg("aa.gif",alt="cg");
-  cg.position(width*0.55, height*0.4);  
+  cg.position(width*0.6, height*0.4);  
   cg.size(150,130);
 }
 
@@ -294,7 +294,7 @@ function neko1() {
   text("No", width * 0.75, height * 0.65);
 
   ng1 = createImg("neko.gif",alt="1");
-  ng1.position(width*0.55, height*0.4);  
+  ng1.position(width*0.6, height*0.4);  
   ng1.size(150,130);
 }
 function neko15(){
@@ -305,7 +305,7 @@ function neko15(){
   textSize(30);
   text("I DON'T WANT YOU TOO!!", width * 0.1, height * 0.3);  
   ng15 = createImg("nekoangry.gif",alt="2");
-  ng15.position(width*0.55, height*0.4);  
+  ng15.position(width*0.6, height*0.4);  
   ng15.size(150,130);
 }
 function neko2() {
@@ -321,7 +321,7 @@ function neko2() {
   fill(238, 130, 238);
   text("Ignore it", width * 0.75, height * 0.65);
   ng1 = createImg("neko.gif",alt="1");
-  ng1.position(width*0.55, height*0.4);  
+  ng1.position(width*0.6, height*0.4);  
   ng1.size(150,130);
 }
 function neko25(){
@@ -333,7 +333,7 @@ function neko25(){
   text("Neko think you are some weirdo", width * 0.1, height * 0.3); 
   text("and left", width * 0.1, height * 0.4);  
   ng25 = createImg("neko2-1.gif",alt="neko2");
-  ng25.position(width*0.55, height*0.4);  
+  ng25.position(width*0.6, height*0.4);  
   ng25.size(150,130);
 }
 function neko3() {
@@ -348,7 +348,7 @@ function neko3() {
   fill(238, 130, 238);
   text("You don’t feed.", width * 0.65, height * 0.75);
   ng1 = createImg("neko.gif",alt="1");
-  ng1.position(width*0.55, height*0.4);  
+  ng1.position(width*0.6, height*0.4);  
   ng1.size(150,130);
 }
 function neko35(){
@@ -359,7 +359,7 @@ function neko35(){
   textSize(30);
   text("She eat and left.", width * 0.1, height * 0.3); 
   ng35 = createImg("neko1.gif",alt="neko3");
-  ng35.position(width*0.55, height*0.4);  
+  ng35.position(width*0.6, height*0.4);  
   ng35.size(150,130);
 }
 function neko4() {
@@ -376,7 +376,7 @@ function neko4() {
   textSize(40);
   text("Congratulation!!!!!!!!!!", width * 0.1, height * 0.8);
   ng45 = createImg("neko4.gif",alt="neko3");
-  ng45.position(width*0.55, height*0.4);  
+  ng45.position(width*0.6, height*0.4);  
   ng45.size(150,130);
 }
 
@@ -392,7 +392,7 @@ function keno1() {
   fill(238, 130, 238);
   text("No", width * 0.75, height * 0.65);
   kg1 = createImg("keno1.gif",alt="neko");
-  kg1.position(width*0.55, height*0.4);  
+  kg1.position(width*0.6, height*0.4);  
   kg1.size(150,130);
 }
 function keno15(){
@@ -404,7 +404,7 @@ function keno15(){
   text("Everyone like that Neko huh. ", width * 0.1, height * 0.3);  
   text("And Keno left", width * 0.2, height * 0.8); 
   kg2 = createImg("keno3.gif",alt="keno3");
-  kg2.position(width*0.55, height*0.4);  
+  kg2.position(width*0.6, height*0.4);  
   kg2.size(150,130);
 }
 function keno2() {
@@ -420,7 +420,7 @@ function keno2() {
   fill(238, 130, 238);
   text("Ignore",width * 0.75, height * 0.65);
   kg1 = createImg("keno1.gif",alt="neko");
-  kg1.position(width*0.55, height*0.4);  
+  kg1.position(width*0.6, height*0.4);  
   kg1.size(150,130);
 }
 function keno25(){
@@ -432,7 +432,7 @@ function keno25(){
   text(" As expected you like neko", width * 0.1, height * 0.3);  
   text("more huh and keno left", width * 0.2, height * 0.8); 
   kg2 = createImg("keno6.gif",alt="keno25");
-  kg2.position(width*0.55, height*0.4);  
+  kg2.position(width*0.6, height*0.4);  
   kg2.size(150,130);
 }
 function keno3() {
@@ -448,7 +448,7 @@ function keno3() {
   fill(238, 130, 238);
   text("You ignore",width * 0.75, height * 0.65);
   kg1 = createImg("keno1.gif",alt="neko");
-  kg1.position(width*0.55, height*0.4);  
+  kg1.position(width*0.6, height*0.4);  
   kg1.size(150,130);
 }
 function keno35(){
@@ -460,7 +460,7 @@ function keno35(){
   text("I knew it, you like the neko more ", width * 0.1, height * 0.3);  
   text("and pretending that you like me", width * 0.1, height * 0.8); 
   kg3 = createImg("keno.gif",alt="keno35");
-  kg3.position(width*0.55, height*0.4);  
+  kg3.position(width*0.6, height*0.4);  
   kg3.size(150,130);
 }
 function keno4() {
@@ -482,7 +482,7 @@ function keno4() {
   textSize(40);
   text("Congratulation???????", width * 0.1, height * 0.8);
   kg4 = createImg("keno2.gif",alt="neko");
-  kg4.position(width*0.55, height*0.4);  
+  kg4.position(width*0.6, height*0.4);  
   kg4.size(150,130);
 }
 
